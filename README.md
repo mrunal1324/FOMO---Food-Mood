@@ -19,6 +19,10 @@ FeelFood is an AI-powered application that analyzes your mood through text input
    .\setup_venv.ps1
    ```
 
+
+https://github.com/user-attachments/assets/47db3a49-e444-4872-b4f5-f6e45f0e93cc
+
+
 ### Option 2: Manual Setup
 
 1. Clone this repository
