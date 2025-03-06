@@ -2,6 +2,8 @@
 
 FeelFood is an AI-powered web application that analyzes your mood through text input and suggests appropriate food recommendations based on your emotional state.
 
+https://github.com/user-attachments/assets/b14c140f-88fa-4d2c-bfd6-f45a858bdf91
+
 ## Features
 
 - Mood analysis using both NLTK sentiment analysis and OpenAI's GPT-3.5
@@ -102,12 +104,7 @@ Recommended Foods:
 - To deactivate the virtual environment:
   ```bash
   deactivate
-
-  
   ```
-
-https://github.com/user-attachments/assets/b14c140f-88fa-4d2c-bfd6-f45a858bdf91
-
 
 - To update dependencies:
   ```bash
