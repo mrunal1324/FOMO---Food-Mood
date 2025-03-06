@@ -1,0 +1,38 @@
+[
+  {
+    "mood": "lazy",
+    "recommendations": [
+      "Sheet pan chicken and vegetables",
+      "5-minute microwave mug cake",
+      "Easy breakfast burrito"
+    ],
+    "selectedFood": "5-minute microwave mug cake",
+    "temperature": 0,
+    "location": "Katraj",
+    "timestamp": "2025-03-05T13:29:25.458Z"
+  },
+  {
+    "mood": "lazy",
+    "recommendations": [
+      "Quick tuna salad wrap",
+      "One-pot pasta dish",
+      "5-minute microwave mug cake"
+    ],
+    "selectedFood": "Quick tuna salad wrap",
+    "temperature": 0,
+    "location": "Katraj",
+    "timestamp": "2025-03-05T14:05:25.582Z"
+  },
+  {
+    "mood": "happy",
+    "recommendations": [
+      "Rainbow sushi roll",
+      "Fresh fruit smoothie bowl with granola",
+      "Light pasta primavera with fresh vegetables"
+    ],
+    "selectedFood": "Light pasta primavera with fresh vegetables",
+    "temperature": 0,
+    "location": "Mediacal College Road",
+    "timestamp": "2025-03-05T19:26:48.980Z"
+  }
+]

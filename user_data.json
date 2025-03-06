@@ -1,0 +1,24 @@
+{
+    "preferences": {
+        "romantic": [
+            "Chocolate-covered strawberries"
+        ],
+        "happy": [
+            "Fresh fruit smoothie bowl with granola"
+        ]
+    },
+    "history": [
+        {
+            "date": "2025-03-05T12:52:52.025141",
+            "mood": "romantic",
+            "food": "Chocolate-covered strawberries"
+        },
+        {
+            "date": "2025-03-05T13:26:09.701176",
+            "mood": "happy",
+            "food": "Fresh fruit smoothie bowl with granola"
+        }
+    ],
+    "favorite_foods": [],
+    "location": "pune"
+}
